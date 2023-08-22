@@ -1,1 +1,1 @@
-# Data-Decision-Resit-Assignment
+This repository contains a project aimed at predicting and managing stress levels through the use of wearable sensors and machine learning algorithms. The project investigates the possibility of developing accurate stress prediction models using physiological data collected from wearable devices. The report describes the project's methodology, findings, advantages, disadvantages, and conclusions.
